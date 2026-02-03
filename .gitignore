@@ -167,3 +167,12 @@ examples/**/types/generated
 
 # Ignore yarn.lock inside templates
 templates/yarn.lock
+
+node_modules/
+.env
+.cache/
+build/
+.tmp/
+dist/
+coverage/
+.DS_Store
